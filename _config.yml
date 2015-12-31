@@ -1,28 +1,40 @@
-name: RKBA
 favicon: null
-layout_spectrum: 0.34605157608166337
-typography_spectrum: 0.2578971537295729
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: RKBA
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.49842163315042853
-  lightness: 0.5742263766005635
-  saturation: 0.8381812553852797
-  rhythmicContrast: 0.233149582054466
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8381812553852797
+  brandStrength: 0.4984216331504285
+  lightness: 0.5742263766005635
+  brandColors:
+    - '#030101'
+    - '#FFFFFF'
+    - '#E00201'
+    - '#041F77'
+    - '#90B5EA'
+  rhythmicContrast: 0.233149582054466
+typography_spectrum: 0.2578971537295729
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3460515760816634
+analytics:
+  twitter: null
+  google: null
+  facebook: null
