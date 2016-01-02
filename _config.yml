@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: RKBA
+favicon: null
+layout_spectrum: 0.3460515760816634
+typography_spectrum: 0.2578971537295729
 collections:
   - index:
       path: /
@@ -18,23 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.3460515760816634
+title: 'The Right to Keep and Bear Arms '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8381812553852797
-  brandStrength: 0.4984216331504285
-  rhythmicContrast: 0.233149582054466
   brandColors:
     - '#040204'
     - '#E0DFE1'
     - '#77180B'
     - '#544C5B'
     - '#FBCF39'
+  brandStrength: 0.4984216331504285
   lightness: 0.5742263766005635
+  saturation: 0.8381812553852797
+  rhythmicContrast: 0.233149582054466
 purpose: []
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: RKBA
-typography_spectrum: 0.2578971537295729
