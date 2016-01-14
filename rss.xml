@@ -4,11 +4,18 @@
         <description><![CDATA[The Right to Keep and Bear Arms ]]></description>
         <link>https://thegrid.ai/rkba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 09:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 16:12:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rkba/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>Two robbery suspects were shot by an employee at a cell phone store in the Jeffrey Manor neighborhood on Chicago's South Side. The T-Mobile store in the 2000-block of East 95th St. was left riddled with bullet holes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72114466d0a75647f95f1cd0e663720af577f452.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rkba/test/index.html</link>
+            <guid isPermaLink="false">aaa39afc-0fe1-4c14-a186-4232ed46853d</guid>
+            <pubDate>Thu, 14 Jan 2016 16:12:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[North Las Vegas homeowner survives attempted home invasion]]></title>
-            <description><![CDATA[<article><h1>North Las Vegas homeowner survives attempted home invasion</h1><p>NORTH LAS VEGAS (KSNV News3LV) - A North Las Vegas man survived a scary home invasion. The homeowner tells News 3 a burglar with a hammer claw entered his house. Luckily the man was ready with a rifle. He ended up firing two shots at the home invader.</p><img src="http://www.news3lv.com/media/lib/166/2/3/e/23e31903-566f-45f2-a94a-92267c2eba86/Original.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>North Las Vegas homeowner survives attempted home invasion</h1><p>NORTH LAS VEGAS (KSNV News3LV) - A North Las Vegas man survived a scary home invasion. The homeowner tells News 3 a burglar with a hammer claw entered his house. Luckily the man was ready with a rifle. He ended up firing two shots at the home invader.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/995823030c6dba3183268f92fa1e775fc95f9f01.jpg"></article>]]></description>
             <link>http://www.news3lv.com/content/news/story/Homeowner-survives-attempted-home-invasion/f_TRCf0O7UC8UlJ3CG7c3w.cspx</link>
             <guid isPermaLink="false">2672d812-c0c3-4002-bdbf-5472557c13da</guid>
             <pubDate>Wed, 06 Jan 2016 09:16:23 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.fox45now.com/news/top-stories/stories/Woman-Shoots-Kills-Home-Invasion-Suspect-in-Trotwood-245926.shtml?wap=0</link>
             <guid isPermaLink="false">05dad7af-ffce-4e34-95e7-5aa5ee539118</guid>
             <pubDate>Wed, 30 Dec 2015 15:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1 killed, 1 shot, 1 arrested at northwest Las Vegas home]]></title>
-            <description><![CDATA[<article><h1>1 killed, 1 shot, 1 arrested at northwest Las Vegas home</h1><p>Police said one teen was killed, another teen was shot and a third teen was arrested after a break-in at a northwest Las Vegas home Wednesday morning. The burglary and shooting happened about 11:15 a.m. at a home in the 1400 block of Daybreak Road, near the intersection of Jones Boulevard and Vegas Drive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc13da57c3183dccca5fbffafd01d2739a74f5e4.jpg"></article>]]></description>
-            <link>http://www.fox5vegas.com/story/30821151/1-killed-1-shot-1-arrested-at-northwest-las-vegas-home</link>
-            <guid isPermaLink="false">be320dff-e29f-4e73-aff4-01bbbbb2df4e</guid>
-            <pubDate>Wed, 30 Dec 2015 15:15:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
